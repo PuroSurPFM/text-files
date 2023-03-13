@@ -1,0 +1,1 @@
+docker run -d cloudflare/cloudflared:latest tunnel --no-autoupdate run --token eyJhIjoiYjMyNTYyMWJmODM4NTZhNjFiYjQ1YTZiYmYxM2ZkNjgiLCJ0IjoiMTVjNzExOWMtZjI4MC00MjAxLWJjNTEtODc2YTRmNDBlMzY5IiwicyI6IlptVXdNRGMxT1RJdE5qVTJNaTAwTkRaakxUZzJNVEF0WWpabU1XRmhPR00zTXpkayJ9
